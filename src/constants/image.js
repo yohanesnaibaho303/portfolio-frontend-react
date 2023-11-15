@@ -29,6 +29,7 @@ import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
 import yohanes from "../assets/yohanes.png";
 import yohaneshero from "../assets/yohaneshero.png";
+import yohanesnewheader from "../assets/yohanesnewheader.png";
 
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
@@ -75,4 +76,5 @@ export default {
   spotify,
   yohanes,
   yohaneshero,
+  yohanesnewheader,
 };
