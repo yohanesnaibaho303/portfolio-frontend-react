@@ -30,6 +30,7 @@ import logo from "../assets/logo.png";
 import yohanes from "../assets/yohanes.png";
 import yohaneshero from "../assets/yohaneshero.png";
 import yohanesnewheader from "../assets/yohanesnewheader.png";
+import heroyohanes from "../assets/hero-yohanes.png"
 
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
@@ -77,4 +78,5 @@ export default {
   yohanes,
   yohaneshero,
   yohanesnewheader,
+  heroyohanes
 };
